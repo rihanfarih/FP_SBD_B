@@ -3,6 +3,6 @@ Final Project SBD B 2021
 Program Database Restoran/Cafe
 
 Anggota:
-Albert Flip Silalahi (05111940000116)\n
-Ahmad Lam'aul Farid (05111940000134)\n
-Rihan Farih Bunyamin (05111940000165)\n
+1.Albert Flip Silalahi (05111940000116)
+2.Ahmad Lam'aul Farid (05111940000134)
+3.Rihan Farih Bunyamin (05111940000165)
