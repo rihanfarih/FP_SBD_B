@@ -9,7 +9,7 @@ Nama Kelompok:
 ## Dokumentasi Gambar
 **Relationship di Ms.Access**
 
-![Relationship](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/Relationship.png)
+![Relasitabel](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/Relasi%20semua%20tabel%20FP%20SBD.jpg)
 
 **Contoh Form pada database**
 ![Formawal](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/Form%20aplikasi%20Coffee%20Shop%20%20FP%20SBD.jpg)
