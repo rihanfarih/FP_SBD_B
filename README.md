@@ -7,6 +7,14 @@ Nama Kelompok:
 3. Rihan Farih Bunyamin - 05111940000165
 
 ## Dokumentasi Gambar
-#Relationship di Ms.Access
-#Contoh Form pada database
-#contoh Report Pada database
+**Relationship di Ms.Access**
+
+![Relationship](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/Relationship.png)
+
+**Contoh Form pada database**
+
+![Form](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/databasetabelmenu.png)
+
+**contoh Report Pada database**
+
+![Report](https://github.com/rihanfarih/FP_SBD_B/blob/main/images/qryMenuHargaBanyakTotal.png)
